@@ -98,7 +98,7 @@ Features:
 
 - LinkedIn: https://linkedin.com/in/awendml
 - Email: awendml@gmail.com
-- Portfolio: awendml.netlify.app
+- Portfolio: awendev.online
 
 ---
 
